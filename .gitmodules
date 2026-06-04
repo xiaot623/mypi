@@ -1,3 +1,4 @@
 [submodule "pi-trace"]
 	path = pi-trace
 	url = https://github.com/xiaot623/pi-trace.git
+	branch = main
