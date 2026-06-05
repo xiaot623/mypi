@@ -2,3 +2,7 @@
 	path = pi-trace
 	url = https://github.com/xiaot623/pi-trace.git
 	branch = main
+[submodule "pi-coordinator"]
+	path = pi-coordinator
+	url = https://github.com/xiaot623/pi-coordinator.git
+	branch = main
