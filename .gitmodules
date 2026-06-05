@@ -6,3 +6,7 @@
 	path = pi-coordinator
 	url = https://github.com/xiaot623/pi-coordinator.git
 	branch = main
+[submodule "pi-subagents"]
+	path = pi-subagents
+	url = https://github.com/xiaot623/pi-subagents
+	branch = mypi
